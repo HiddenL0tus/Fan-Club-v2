@@ -95,5 +95,13 @@ button {
     margin: 10px;
     
 }
+
+form {
+    text-align: center;
+    color: hsl(0, 63%, 46%);
+    margin-top: 20px;
+    
+}
+    
     
     
